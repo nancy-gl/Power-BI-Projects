@@ -1,5 +1,5 @@
 # Power-BI-Projects
-Example Power BI Projects
+Created these Power BI Reports testing the various features of it. 
 
 # [Project 1: Optical Data Analysis](https://github.com/nancy-gl/Optical_patients_report)
 ## Project Overview
