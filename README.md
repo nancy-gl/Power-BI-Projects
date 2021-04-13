@@ -1,7 +1,7 @@
 # Power-BI-Projects
 Example Power BI Projects
 
-# [Project 1: For the Optical Data Analysis](https://github.com/nancy-gl/Reports)
+# [Project 1: For the Optical Data Analysis](https://github.com/nancy-gl/Optical_patients_report)
 * This report allows to see the Optometric patients appointment details.
 * The next appointment due date based on the following logic -> 
   1. Age under 25- require an eye exam once a year,
