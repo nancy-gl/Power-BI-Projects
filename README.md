@@ -10,7 +10,7 @@ Example Power BI Projects
   3. Age greater than 55- should be having an appointment once every 3 months.
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
 
-# [Project 2: Supplier Analysis](https://github.com/nancy-gl/Reports)
+# [Project 2: Supplier Analysis](https://github.com/nancy-gl/Supplier_Analysis_report)
 ## Project Overview
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
 * I performed top N analysis (best/worst category), using What If parameters.
