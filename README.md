@@ -11,6 +11,7 @@ Created these Power BI Reports testing the various features of it.
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
   ### [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
 
+
 # Project 2: Supplier Analysis
 ## Project Summary
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
@@ -20,11 +21,13 @@ Created these Power BI Reports testing the various features of it.
 * Implemented Bookmarks for layering visuals to give a different perspective.
   ### [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
 
+
 # Project 3: Insurance Complain Analysis
 ## Project Summary
 * The ask is to see status changes and when it happened, the complaints broken down by the dimension and also to figure out the client satisfaction.
 * Made use of bookmarks to get fly over filter pane that would help save visualization space.
   ### [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+
 
 # Project 4: Accounts AR Dataset
 ## Project Summary
