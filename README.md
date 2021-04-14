@@ -34,4 +34,4 @@ Created these Power BI Reports testing the various features of it.
 * Performed ETL to clean the dataset that was really messy.
 * Used Power Query for the transformations. 
 * Created the invoice aging report using waterfall chart.
-  ### [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+  ### [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
