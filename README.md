@@ -11,7 +11,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
 
   ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Combined.png)
-  ### [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
+  ## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
 
 
 ## Project 2: Supplier Analysis - Report
