@@ -1,5 +1,5 @@
 # Power-BI-Projects
-Created these Power BI Reports testing the various features of it. 
+Created these Power BI Reports testing the various features of it with the data available in the internet. 
 
 ## Project 1: Optical Data Analysis - Report 
 ### Summary 
