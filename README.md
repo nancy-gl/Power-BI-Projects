@@ -12,7 +12,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
   ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Combined.png)
   
- ## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
+## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
 
 
 ## Project 2: Supplier Analysis - Report
@@ -25,7 +25,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
   ![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Combined.png)
   
- ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 ## Project 3: Accounts AR Dataset - ETL
 ### Summary
@@ -35,7 +35,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
   ![](https://github.com/nancy-gl/Accounts-AR/blob/main/images/Aging%20Visuals.png)
   
- ## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
+## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
   
 ## Project 4: Insurance Complain Analysis - Report
 ### Summary
@@ -44,7 +44,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ![]()
 
-  ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+ ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 
 
