@@ -13,7 +13,8 @@ Created these Power BI Reports testing the various features of it.
 # [Project 2: Supplier Analysis](https://github.com/nancy-gl/Supplier_Analysis_report)
 ## Project Overview
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
-* I performed top N analysis (best/worst category), using What If parameters.
+* Performed top N analysis (best/worst category), using What If parameters.
+* Used Clustering analysis for viewing the collection of good and bad preformers.
 * Also explored the new smart narrative feature to use dynamic measure value.
 * Implemented Bookmarks for layering visuals to give a different perspective.
 
