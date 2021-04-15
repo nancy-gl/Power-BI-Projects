@@ -34,12 +34,6 @@ Created these Power BI Reports testing the various features of it with the data 
   
 ## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
   
-## Project 4: Insurance Complain Analysis - Report
-## Summary
-* The ask is to see status changes and when it happened, the complaints broken down by the dimension and also to figure out the client satisfaction.
-* Made use of bookmarks to get fly over filter pane that would help save visualization space.
-
- ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 
 
