@@ -3,6 +3,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ## Project 1: Optical Data Analysis - Report 
 ### Summary 
+![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Combined.png)
 * This report allows to see the Optometric patients appointment details.
 * The next appointment due date based on the following logic -> 
   1. Age under 25- require an eye exam once a year,
@@ -10,8 +11,6 @@ Created these Power BI Reports testing the various features of it with the data 
   3. Age greater than 55- should be having an appointment once every 3 months.
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
 
-  ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Combined.png)
-  
 ## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
 
 
