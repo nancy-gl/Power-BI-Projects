@@ -35,6 +35,15 @@ Created these Power BI Reports testing the various features of it with the data 
 * Created the invoice aging report using waterfall chart.
   ## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
   
+---
+
+## Project 4: Sales Dashboard
+## Summary
+
+* Performed ETL using TSQL in SQL Server 2019 environment.
+* Created a Sales Dashboard using (world famous :) ) AdventureWorksDW dataset.
+  ## [Click here to view the details of the report](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
+  
 
 
 
