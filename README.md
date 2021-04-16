@@ -21,7 +21,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Used Clustering analysis for viewing the collection of good and bad preformers.
 * Also explored the new smart narrative feature to use dynamic measure value.
 * Implemented Bookmarks for layering visuals to give a different perspective.
- ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+  ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 ## Project 3: Accounts AR Dataset - ETL
 ## Summary
