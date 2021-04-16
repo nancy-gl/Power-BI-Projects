@@ -1,6 +1,7 @@
 # Power-BI-Projects
 Created these Power BI Reports testing the various features of it with the data available in the internet. 
 
+--- 
 ## Project 1: Optical Data Analysis - Report 
 ## Summary 
 
@@ -12,6 +13,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
   ## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
 
+---
 
 ## Project 2: Supplier Analysis - Report
 ## Summary
@@ -22,6 +24,8 @@ Created these Power BI Reports testing the various features of it with the data 
 * Also explored the new smart narrative feature to use dynamic measure value.
 * Implemented Bookmarks for layering visuals to give a different perspective.
   ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+
+--- 
 
 ## Project 3: Accounts AR Dataset - ETL
 ## Summary
