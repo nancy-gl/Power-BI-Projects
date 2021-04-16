@@ -4,8 +4,6 @@ Created these Power BI Reports testing the various features of it with the data 
 ## Project 1: Optical Data Analysis - Report 
 ## Summary 
 
-   ![](https://github.com/nancy-gl/Optical_patients_report/blob/main/images/Combined.png)
-
 * This report allows to see the Optometric patients appointment details.
 * The next appointment due date based on the following logic -> 
   1. Age under 25- require an eye exam once a year,
@@ -18,7 +16,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ## Project 2: Supplier Analysis - Report
 ## Summary
-![](https://github.com/nancy-gl/Supplier_Analysis_report/blob/main/images/Combined.png)
+
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
 * Performed top N analysis (best/worst category), using What If parameters.
 * Used Clustering analysis for viewing the collection of good and bad preformers.
@@ -29,7 +27,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ## Project 3: Accounts AR Dataset - ETL
 ## Summary
-![](https://github.com/nancy-gl/Accounts-AR/blob/main/images/Aging%20Visuals%20small.png)
+
 * Performed ETL to clean the dataset that was really messy.
 * Used Power Query for the transformations. 
 * Created the invoice aging report using waterfall chart.
