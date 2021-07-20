@@ -2,7 +2,7 @@
 Created these Power BI Reports testing the various features of it with the data available in the internet. 
 
 --- 
-## Project 1: Optical Data Analysis - Report 
+## Project 1: Optical Data Analysis 
 ## Summary 
 
 * This report allows to see the Optometric patients appointment details.
@@ -15,7 +15,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ---
 
-## Project 2: Supplier Analysis - Report
+## Project 2: Supplier Analysis 
 ## Summary
 
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
@@ -27,7 +27,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 --- 
 
-## Project 3: Accounts AR Dataset - ETL
+## Project 3: Accounts Account Receivables Ageing Report 
 ## Summary
 
 * Performed ETL to clean the dataset that was really messy.
