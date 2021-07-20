@@ -11,7 +11,7 @@ Created these Power BI Reports testing the various features of it with the data 
   2. Age 25 upto and including 55- once every 6 months,
   3. Age greater than 55- should be having an appointment once every 3 months.
 * Also created an indicator or status to see which patients were due for appointments, the change in their eye measurements from last appointment.
-  ## [Click here to view the details of the report](https://github.com/nancy-gl/Optical_patients_report)
+  ## [Click here to view the details](https://github.com/nancy-gl/Optical_patients_report)
 
 ---
 
@@ -23,7 +23,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Used Clustering analysis for viewing the group of good and bad preformers.
 * Also explored the new smart narrative feature to use dynamic measure value.
 * Implemented Bookmarks for layering visuals to give a different perspective.
-  ## [Click here to view the details of the report](https://github.com/nancy-gl/Supplier_Analysis_report)
+  ## [Click here to view the details](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 --- 
 
@@ -33,7 +33,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Performed ETL to clean the dataset that was really messy.
 * Used Power Query for the transformations. 
 * Created the invoice aging report using waterfall chart.
-  ## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
+  ## [Click here to view the details](https://github.com/nancy-gl/Accounts-AR)
   
 ---
 
@@ -42,7 +42,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 * Performed ETL to clean the dataset using TSQL in SQL Server 2019 environment.
 * Created an Executive Dashboard to analyse the sales trends by region and productcategory
-  ## [Click here to view the details of the report](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
+  ## [Click here to view the details](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
   
 
 
