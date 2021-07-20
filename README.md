@@ -27,7 +27,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 --- 
 
-## Project 3: Accounts Account Receivables Ageing Report 
+## Project 3: Accounts Receivables Ageing Report 
 ## Summary
 
 * Performed ETL to clean the dataset that was really messy.
