@@ -40,8 +40,17 @@ Created these Power BI Reports testing the various features of it with the data 
 ## Project 4: Executive Dashboard
 ## Summary
 
+* Performed ETL to clean the dataset using TSQL in SQL Server 2019 environment.
+* Created an Executive Dashboard to analyse the sales trends by region and  productcategory
+  ## [Click here to view the details of the report](https://github.com/nancy-gl/Accounts-AR)
+  
+---
+
+## Project 5: Sales Dashboard
+## Summary
+
 * Performed ETL using TSQL in SQL Server 2019 environment.
-* Created an Executive Sales Dashboard using AdventureWorksDW dataset.
+* Created an Sales Dashboard using AdventureWorksDW dataset.
   ## [Click here to view the details of the report](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
   
 
