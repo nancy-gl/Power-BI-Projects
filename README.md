@@ -22,7 +22,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Performed top N analysis (best/worst category), using What If parameters.
 * Used Clustering analysis for viewing the group of good and bad preformers.
 * Also explored the new smart narrative feature to use dynamic measure value.
-* Implemented Bookmarks for layering visuals to give a different perspective.
+* Implemented Bookmarks for layering visuals to save report space and showing different perspective.
   ## [Click here to view the details](https://github.com/nancy-gl/Supplier_Analysis_report)
 
 --- 
