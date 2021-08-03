@@ -37,13 +37,22 @@ Created these Power BI Reports testing the various features of it with the data 
   
 ---
 
-## Project 4: Executive Dashboard
+## Project 4: Profitability Analysis
+## Summary
+
+* Created a profitability analysis dashboard to analyse Profitable and non-profitable category.
+* Profitability analysis by shipping mode and % profit variance from baseline.
+* Analysed the most and least profitable states.
+* Analysed the cumulative profits and cumulative sales by quarter and year.
+  ## [Click here to view the details](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
+  
+
+---
+
+## Project 5: Executive Dashboard
 ## Summary
 
 * Performed ETL to clean the dataset using TSQL in SQL Server 2019 environment.
 * Created an Executive Dashboard to analyse the sales trends by region and productcategory
   ## [Click here to view the details](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
-  
-
-
 
