@@ -44,7 +44,7 @@ Created these Power BI Reports testing the various features of it with the data 
 * Profitability analysis by shipping mode and % profit variance from baseline.
 * Analysed the most and least profitable states.
 * Analysed the cumulative profits and cumulative sales by quarter and year.
-  ## [Click here to view the details](https://github.com/nancy-gl/AdventureWorks-Sales-Dashboard)
+  ## [Click here to view the details](https://github.com/nancy-gl/Profitability-Analysis)
   
 
 ---
