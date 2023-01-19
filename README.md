@@ -2,7 +2,16 @@
 Created these Power BI Reports testing the various features of it with the data available in the internet. 
 
 --- 
-## Project 1: Optical Data Analysis 
+## Project 1:  Space Missions by Maven Analytics
+## Summary 
+
+* This report analyses the rocket launch trends over time, the mission success rate and failure rates.
+* It shows the countries having most successful space missions.
+* It also shows the rockets that was most used for the missions and whether it is active or retired.
+
+
+--- 
+## Project 2: Optical Data Analysis 
 ## Summary 
 
 * This report allows to see the Optometric patients appointment details.
@@ -15,7 +24,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ---
 
-## Project 2: Supplier Analysis 
+## Project 3: Supplier Analysis 
 ## Summary
 
 * The task was to find which vendors/plants are causing greatest defect quality and greatest downtime.
@@ -27,7 +36,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 --- 
 
-## Project 3: Accounts Receivables Ageing Report 
+## Project 4: Accounts Receivables Ageing Report 
 ## Summary
 
 * Performed ETL to clean the dataset that was really messy.
@@ -37,7 +46,7 @@ Created these Power BI Reports testing the various features of it with the data 
   
 ---
 
-## Project 4: Profitability Analysis
+## Project 5: Profitability Analysis
 ## Summary
 
 * Created a profitability analysis dashboard to analyse Profitable and non-profitable category.
@@ -49,7 +58,7 @@ Created these Power BI Reports testing the various features of it with the data 
 
 ---
 
-## Project 5: Executive Dashboard
+## Project 6: Executive Dashboard
 ## Summary
 
 * Performed ETL to clean the dataset using TSQL in SQL Server 2019 environment.
